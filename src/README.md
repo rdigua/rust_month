@@ -17,7 +17,7 @@
 
 ## Rust now
 
-截至到2020年4月 Rust稳定版1.43 night 1.44 beta 1.44
+截至到2020年4月 Rust稳定版1.43 night 1.45 beta 1.44
 
 ## New Rustacea
 
